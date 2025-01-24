@@ -64,3 +64,5 @@
 </picture>
 
 ###
+
+<img src="wave_animation_light.svg" alt="GitHub Banner" width="100%" />
