@@ -20,7 +20,7 @@
 - 💻 Working on <a href="https://www.soundstate.live" alt="link to SoundState.live"><strong>SoundState</strong></a>
 
 - 🤔 Pondering on <a href="https://github.com/cheehwatang/github-readme-daily-quotes" alt="link to Github Readme Daily Quotes"><strong>Daily Quotes</strong></a>
--->
+
 <div>
     &emsp;&emsp;&emsp;
     <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-dark-mode-only"> 
@@ -30,7 +30,7 @@
         <img src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms&theme=vue#gh-light-mode-only" alt="Daily Quotes">
     </a>
 </div>
-
+-->
 
 ###
 ## 📈 My Stats
