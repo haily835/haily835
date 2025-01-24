@@ -3,6 +3,35 @@
 
 <h2 align="left">Hi 👋! My name is Hai and I'm a fullstack developer based in Ontario Canada</h2>
 
+
+## 👨🏻‍💻 What's Happening?
+ 
+- 🐣 My very first paper got accepted at AIxVR 2025 <a href="https://aixvr.tecnico.ulisboa.pt/" alt="conference page"><strong>Here</strong></a>. Online version will be available on IEEE! 
+<p></p>
+
+- 👨‍🎓 I've just completed my thesis prosal at University of Windsor. 
+<p></p>
+
+- 🌱 Learning **Node.js** & **Typescript**.
+
+<--
+<p></p>
+
+- 💻 Working on <a href="https://www.soundstate.live" alt="link to SoundState.live"><strong>SoundState</strong></a>
+
+- 🤔 Pondering on <a href="https://github.com/cheehwatang/github-readme-daily-quotes" alt="link to Github Readme Daily Quotes"><strong>Daily Quotes</strong></a>
+-->
+<div>
+    &emsp;&emsp;&emsp;
+    <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-dark-mode-only"> 
+        <img src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms#gh-dark-mode-only" alt="Daily Quotes">
+    </a>
+    <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-light-mode-only"> 
+        <img src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms&theme=vue#gh-light-mode-only" alt="Daily Quotes">
+    </a>
+</div>
+
+
 ###
 
 <div align="center">
