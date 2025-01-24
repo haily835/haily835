@@ -1,3 +1,6 @@
+
+<img src="Cover.png" alt="GitHub Banner" width="100%" />
+
 <h2 align="left">Hi 👋! My name is Hai and I'm a fullstack developer based in Ontario Canada</h2>
 
 ###
