@@ -33,6 +33,7 @@
 
 
 ###
+## 📈 My Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haily835&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -43,7 +44,7 @@
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZkaGFramwxczg2cHh6a3lidmNmcHU2NzBhaDh1OXVzY2E1N2M3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SKDiTL793TGiaiV9Kv/giphy.gif"  />
 
-###
+## 🧰 My Toolbox
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -68,7 +69,7 @@
 </div>
 
 ###
-
+## 🍄 Connect with me!
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="lyquochai@gmail.com" target="_blank">
